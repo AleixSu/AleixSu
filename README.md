@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**AleixSu/AleixSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Full-stack developer who speaks fluent JavaScript (and occasionally argues with CSS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building things with React, Node.js, and a healthy dose of anxiety. I make APIs that actually work and UIs that don't make users cry.
+
+## Tech Stack
+
+**Frontend**
+- React + Vite
+- HTML, CSS, JavaScript
+
+**Backend**
+- Node.js + Express
+- MongoDB + Mongoose
+- Authentication: bcrypt + JWT
+
+**Tools & Others**
+- Git & GitHub
+- Puppeteer (for when websites refuse to share nicely)
+- Cloudinary
+
+## Philosophy
+
+I believe in:
+- Clean code
+- Proper authentication
+- Git commits that make sense at 3 AM
+
+## Current Status
+
+Currently turning ideas into deployed applications and pretending I enjoy debugging.
+
+## Let's Connect
+
+Always up for collaborating on projects that solve real problems (or just cool stuff that makes the internet a better place).
+
+---
+
+*"It works on my machine" - Famous last words*
