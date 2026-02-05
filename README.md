@@ -26,8 +26,8 @@ Building things with React, Node.js, and a healthy dose of anxiety. I make APIs 
 
 I believe in:
 - Clean code
-- Proper authentication
 - Git commits that make sense at 3 AM
+- Keep learning along the way
 
 ## Current Status
 
