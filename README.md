@@ -31,7 +31,7 @@ I believe in:
 
 ## Current Status
 
-Currently turning ideas into deployed applications and pretending I enjoy debugging.
+Currently turning ideas into deployed applications and deepening my backend knowledge (FastAPI, system design).
 
 ## Let's Connect
 
