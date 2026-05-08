@@ -10,7 +10,7 @@ Building things with React, Node.js, and a healthy dose of anxiety. I make APIs 
 
 **Frontend**
 - React + Vite
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, TailWind
 
 **Backend**
 - Node.js + Express
