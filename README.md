@@ -47,6 +47,6 @@ I build APIs that actually work and UIs that don't make users cry. Before that, 
 
 Always up for collaborating on projects that solve real problems (or just cool stuff that makes the internet a better place).
 
-[LinkedIn](link) · [Email](mailto:aleixsu@gmail.com)
+[LinkedIn]([link](https://www.linkedin.com/in/aleix-suero/)) · [Email](mailto:aleixsu@gmail.com)
 
 > "It works on my machine" - Famous last words
