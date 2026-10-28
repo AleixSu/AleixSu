@@ -4,7 +4,7 @@ Full-stack developer based in Medellín, Colombia. I speak fluent JavaScript and
 
 I build APIs that actually work and UIs that don't make users cry. Before that, I worked in technical support at a fintech SaaS company, debugging production issues with DataDog and AWS. So I've seen what happens when code breaks in real life, and I try to write code that doesn't.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 - React, Next.js, Vite
@@ -47,6 +47,6 @@ I build APIs that actually work and UIs that don't make users cry. Before that, 
 
 Always up for collaborating on projects that solve real problems (or just cool stuff that makes the internet a better place).
 
-[LinkedIn]([link](https://www.linkedin.com/in/aleix-suero/)) · [Email](mailto:aleixsu@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/aleix-suero/) · [Email](mailto:aleixsu@gmail.com)
 
 > "It works on my machine" - Famous last words
